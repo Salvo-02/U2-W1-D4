@@ -19,9 +19,9 @@ body {
 .parole {
   position: relative;
 }
-.parole i {
+i {
   position: absolute;
-  animation: parole 1s ease infinite;
+  animation: parole 3s ease infinite;
   width: 18rem;
   color: aqua;
   margin-left: 0.5rem;
